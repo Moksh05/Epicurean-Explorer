@@ -11,6 +11,7 @@ Welcome to Epicurean Explorer, your ultimate recipe explorer web app! Discover a
 6. [Custom Features](#6-custom-features)
 7. [Troubleshooting](#7-troubleshooting)
 8. [Contributors](#8-contributors)
+9. [Demo](#9-Demo)
    
 ## 1. Introduction
 
@@ -196,3 +197,6 @@ For API Documentation, please refer to
 - [Tushar](https://github.com/tusharsharma5347)
 - [Utkarsh Yadav](https://github.com/utkarshYadav21)
 - [Vibhav Sharma](https://github.com/Vibhav70)
+
+## 9. Demo
+- You can check the Demo of the project from here - [Demo Video](https://drive.google.com/file/d/1dQlULtPOWE1jyiiPUXE81wzi8nXJ_SK0/view?usp=sharing)
